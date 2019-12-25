@@ -10,7 +10,7 @@
 %                           
 %           OPTIMIZATION: USING MONTECARLO SIMULATION
 %
-%                                CRISTIAN ORTIZ
+%                                CRISTHIAN ORTIZ
 %                                PAUL PONCE
 %                                KEVIN ROJAS
 %                                SANTIAGO SANDOVAL
