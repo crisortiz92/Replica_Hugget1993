@@ -10,7 +10,7 @@
 %                           
 %           OPTIMIZATION: USING DENSITY FUNCTION AND BISECTION METHOD
 %
-%                                CRISTIAN ORTIZ
+%                                CRISTHIAN ORTIZ
 %                                PAUL PONCE
 %                                KEVIN ROJAS
 %                                SANTIAGO SANDOVAL
